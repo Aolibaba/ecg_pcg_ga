@@ -10,14 +10,6 @@ cd ./code
 . main.sh
 
 Or you can respectively excute the subprogram.
-<<<<<<< HEAD
 e.g. solely train the cl-ecg-net.
 cd ./code/cl-ecg-net/
 python train.py
-=======
-python3
-cd ./code/
-python ./cl-ecg-net/train.py
-python ./cl-pcg-net/train.py
-python ./genetic/train.py
->>>>>>> 08b4e6b8f356787ac367c7880a9fc690f1997e2f
