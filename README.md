@@ -10,7 +10,6 @@ cd ./code
 . main.sh
 
 Or you can respectively excute the subprogram.
-e.g.
 python3
 cd ./code/
 python ./cl-ecg-net/train.py
