@@ -1,6 +1,6 @@
 cd cl_ecg_net
-#python3 train.py
+python train.py
 cd ../cl_pcg_net
-python3 train.py
+python train.py
 cd ../genetic
-python3 train.py
+python train.py
